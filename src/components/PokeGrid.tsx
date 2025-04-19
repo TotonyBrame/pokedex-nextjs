@@ -14,7 +14,6 @@ export default function PokeGrid({className = ""}: PokeGridProps) {
                 <div
                     key={132}
                     className="p-1 flex items-center justify-center hover:bg-purple-200 cursor-pointer"
-
                 >
                     <img
                         src={`https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/home/132.png`}
